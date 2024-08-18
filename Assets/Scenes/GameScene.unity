@@ -154,6 +154,9 @@ MonoBehaviour:
   _max: 1000
   _min: 0
   _displayText: {fileID: 1563005442}
+  _buttonLower: {fileID: 1122617336}
+  _buttonHigher: {fileID: 1932150150}
+  _buttonCorrect: {fileID: 2006455800}
 --- !u!4 &66254250
 Transform:
   m_ObjectHideFlags: 0
